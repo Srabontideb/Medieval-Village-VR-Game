@@ -5,8 +5,7 @@ A mobile VR walkthrough of a low-poly medieval village, built in **Unity 6 (URP)
 - **Mono mode:** hold the phone and use touch gestures.
 - **Cardboard mode:** put the phone in a Google Cardboard viewer for split-screen stereo, with gyroscope head tracking and thumb-hole controls.
 
-> **Course:** MM 806 – Virtual Reality, Fall 2026, Assignment 2
-> **Author:** Srabonti Deb
+![Medieval Village VR: the village scene in Unity](medieval%20village.png)
 
 | | |
 |---|---|
