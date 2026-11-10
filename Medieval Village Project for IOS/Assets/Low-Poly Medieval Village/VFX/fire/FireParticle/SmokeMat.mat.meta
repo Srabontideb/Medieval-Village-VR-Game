@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79c147a3cdfd84d8ebd528e867399bf5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274198
+  packageName: Low-Poly Medieval Village
+  packageVersion: 1.0
+  assetPath: Assets/Low-Poly Medieval Village/VFX/fire/FireParticle/SmokeMat.mat
+  uploadId: 641222

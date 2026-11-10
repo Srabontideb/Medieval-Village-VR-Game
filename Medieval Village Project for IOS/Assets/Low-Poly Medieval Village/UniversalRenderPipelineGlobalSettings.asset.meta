@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1e8e6024bd438a488bd548edcdc04dc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274198
+  packageName: Low-Poly Medieval Village
+  packageVersion: 1.0
+  assetPath: Assets/Low-Poly Medieval Village/UniversalRenderPipelineGlobalSettings.asset
+  uploadId: 641222

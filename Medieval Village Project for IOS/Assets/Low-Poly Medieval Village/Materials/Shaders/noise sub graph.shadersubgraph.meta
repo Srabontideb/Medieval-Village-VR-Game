@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 76b66da4bcfaa93499b871458a999005
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 60072b568d64c40a485e0fc55012dc9f, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274198
+  packageName: Low-Poly Medieval Village
+  packageVersion: 1.0
+  assetPath: Assets/Low-Poly Medieval Village/Materials/Shaders/noise sub graph.shadersubgraph
+  uploadId: 641222

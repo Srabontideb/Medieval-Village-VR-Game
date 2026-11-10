@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 602cc0ef1814743389adb4d88aed7f4e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274198
+  packageName: Low-Poly Medieval Village
+  packageVersion: 1.0
+  assetPath: Assets/Low-Poly Medieval Village/VFX/fire/FireParticle/FireMatTest.mat
+  uploadId: 641222
