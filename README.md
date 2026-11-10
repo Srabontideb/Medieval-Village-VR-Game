@@ -242,11 +242,3 @@ ProjectSettings/                    # Player, input, quality and build settings
 | iPhone: "Unable to Verify App" / "Untrusted Developer" | Make sure the phone is online, then go to Settings → General → VPN & Device Management → Verify/Trust. |
 | The Cardboard view looks tilted in the Editor | Unity Remote is sending the phone's gyroscope. Hold the phone level, or disconnect Remote. |
 | Stuck somewhere | Use Menu → **Restart**, or Settings → **Respawn**. |
-
----
-
-## Credits
-
-- **Low-Poly Medieval Village** environment asset, provided by the course.
-- All VR navigation, stereo, UI, villagers and sound scripts were written for this assignment. Development was assisted by Claude (Anthropic).
-- Built with Unity 6.3 LTS and the Universal Render Pipeline.
